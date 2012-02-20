@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Fern Site</title>
+    <meta charset="utf-8">
+		<link rel="stylesheet" href="stylesheets/fernsite.css">
+		<script>
+      alert("Hello Course Participants");
+    </script>
+  </head>
+
+  <body>
+    <h1><img src="images/fern.jpg" alt="Fern Site" />Fern Site</h1>
+
+
+		<h2>My Site</h2>
+		<p>Yeah, this is the place where I practice this Ruby stuff.</p>
+
+		<h2>Not Ruby Yet</h2>
+		<p>Yes, you're right. This is only HTML5 + CSS3 + JS... well, Ruby will come soon, that's the most important thing!</p>
+
+		<h2>Where I am</h2>
+		<p>Right now in my room, it's not so cold outside indeed.</p>
+  </body>
+
+</html>
