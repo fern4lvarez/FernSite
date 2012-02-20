@@ -6,7 +6,7 @@
     <meta charset="utf-8">
 		<link rel="stylesheet" href="stylesheets/fernsite.css">
 		<script>
-      alert("Hello Course Participants");
+      alert("Hello Teacher");
     </script>
   </head>
 
